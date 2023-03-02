@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HelpNow</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="back">Back</string>
+    <string name="create_notes">Создай заметку</string>
+    <string name="save_notes">Сохранить</string>
+
+
+</resources>
